@@ -1,0 +1,21 @@
+body {
+    font-family: 'Outfit', sans-serif;
+    color: hsl(218, 44%, 22%);
+    background-color: hsl(0, 0%, 100%);
+}  
+a {
+    color: hsl(220, 15%, 55%);
+    text-decoration: none;
+}
+p {
+    font-size: 15px;
+    line-height: 1.5;
+}
+   @media (min-width: 1440px) {
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
